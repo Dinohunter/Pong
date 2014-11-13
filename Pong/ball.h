@@ -1,0 +1,7 @@
+
+class pongBall{
+	private:
+
+	public:
+
+};
